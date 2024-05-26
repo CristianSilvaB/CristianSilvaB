@@ -1,6 +1,4 @@
-<!-- <p align="center">
-<!--<img src="https://github.com/.gif" alt="Hello there, I'm Cristian 👋 I'm a 🚀 Data Engineer 🚀 ">
-<!--</p>
+
 
 ## ¿Quien Soy?
  - Soy Ingeniero de datos con Background en Linux y administración de servidores
@@ -71,26 +69,29 @@ Email: silvab.cristian@gmail.com
 ## Contact me
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
 <div align="center">
-
-<a href="https://github.com/CristianSilvaB">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianSilvaB&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-  <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=CristianSilvaB&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CristianSilvaB&theme=dark&hide_border=true&exclude_days=flase" alt="GitHub Streak" /></a>
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CristianSilvaB&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/CristianSilvaB">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=CristianSilvaB&theme=dark&show_icons=true&count_private=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/CristianSilvaB">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianSilvaB&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="0xabdulkhalid"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=CristianSilvaB&theme=dark&hide_border=true&exclude_days=flase" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 ## Hi there 👋
 
