@@ -9,7 +9,7 @@
 - From an early age, my curiosity and love for learning led me to the world of technology, where I discovered my passion. 🌟
 - I believe in the transformative power of data to drive innovation in all areas. 🚀
 - I am interested in cybersecurity and automation. 🔒
-- I am autonomous, adaptable, and skilled in crisis management. 🌐
+- Autonomous, adaptable, and skilled in crisis management. 🌐
 - I love video games, music, and cars. 🎮
        
 ## Tech Skills
@@ -54,10 +54,10 @@
 ## My experience
 
 - I was part of complex projects in data architecture, manipulation, and analysis using tools such as Python, NumPy, Pandas, AWS, Fast API, Power BI. 🚀 
-- Face challenges with creative solutions and informed decisions.  🎨 
+- I face challenges with creative solutions and informed decisions.  🎨 
 - I have knowledge in Agile Methodologies, Data Structures, Model evaluation, machine learning, Big Data Technologies and DevOps. 📚
 - In various projects I implemented cloud computing, database management, and data architecture. ☁️ 
-- Perform projects in data analysis and visualization. 📊 
+- Performed projects in data analysis and visualization. 📊 
 - Equipped to tackle complex challenges with practical solutions. 🛠️ 
   
 ## 📫 How to reach me:
