@@ -1,17 +1,20 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Cristian+Silva;Data+Engineer!&center=true&size=30">
+  </a>
+</h1>
 
+## About me
+- I am a Data engineer with a background in Linux and server administration.  💻  
+- From an early age, my curiosity and love for learning led me to the world of technology, where I discovered my passion. 🌟
+- I believe in the transformative power of data to drive innovation in all areas. 🚀
+- I am interested in cybersecurity and automation. 🔒
+- I am autonomous, adaptable, and skilled in crisis management. 🌐
+- I love video games, music, and cars. 🎮
+       
+## Tech Skills
 
-## ¿Quien Soy?
- - Soy Ingeniero de datos con Background en Linux y administración de servidores
- - Desde una edad temprana, mi curiosidad y amor por aprender me llevaron al mundo de la tecnología, donde encontré mi pasión
-   - Creo en el poder transformador de los datos para impulsar la innovación en todos los ámbitos.
-   - Me interesa la Gestión de seguridad informática, automatización 
-  - Autonomía y adaptabilidad.
-  y soy hábil para el manejo de crisis.
-  - Mi nivel de ingles B2- intermedio.
-   - Soy fan de los videojuegos de plataforma, la música y los carros
-## Tecnologías
-
-### Lenguajes Y Librerias 
+### Programming Languages and Libraries 
 ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas)
 ![Numpy](https://img.shields.io/badge/Numpy-black?style=flat&logo=Numpy)
@@ -19,15 +22,21 @@
 ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-black?style=flat&logo=Scikit-Learn)
 ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat&logo=streamlit)
 ![S3FS](https://img.shields.io/badge/S3FS-black?style=flat&logo=AMAZON%20S3&logoColor=white)
-![S3FS](https://img.shields.io/badge/S3FS-black?style=flat&logo=AMAZON%20S3&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-black?style=flat&logo=coffeescript)
 ![Plotly](https://img.shields.io/badge/Plotly-black?style=flat&logo=plotly)
 ![SeaBorn](https://img.shields.io/badge/Seaborn-black?style=flat&logo=Seaborn)
 ![Geopandas](https://img.shields.io/badge/Geopandas-black?style=flat&logo=Geopandas)
-
-### Visualización 
+![PySpark](https://img.shields.io/badge/PySpark-black?style=flat&logo=PySpark)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-black?style=flat&logo=Jupyter%20Notebook)
+![GeoPy](https://img.shields.io/badge/GeoPy-black?style=flat&logo=GeoPy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat&logo=Matplotlib)
+![Spacy](https://img.shields.io/badge/Spacy-black?style=flat&logo=Spacy)
+![TextBlob](https://img.shields.io/badge/Textblob-black?style=flat&logo=TextBlob)
+![NLTK](https://img.shields.io/badge/NLTK-black?style=flat&logo=NLTK)
+ 
+### Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-black?style=flat&logo=Power%20bi)
-![Tableau](https://img.shields.io/badge/Power%20BI-black?style=flat&logo=Power%20bi)
+![Tableau](https://img.shields.io/badge/Tableau-black?style=flat&logo=Tableau)
 
 ### Cloud 
 ![Amazon S3](https://img.shields.io/badge/AWS%20S3-black?style=flat&logo=Amazon%20S3)
@@ -39,34 +48,23 @@
 ![AWS Quicksight](https://img.shields.io/badge/AWS%20Quicksight-black?style=flat&logo=AmazonAWS&logoColor=yellow)
 ![Pyspark](https://img.shields.io/badge/Pyspark-black?style=flat&logo=apache%20spark)
 ![Render](https://img.shields.io/badge/Render-black?style=flat&logo=RENDER)
+![FastApi](https://img.shields.io/badge/FastApi-black?style=flat&logo=FastApi)
 
 
+## My experience
 
-
-
-## Experiencia
-Liderado proyectos complejos de arquitectura, manipulación y análisis de datos.
-        Herramientas utilizadas: Python, NumPy, Pandas, AWS, Fast API, Power BI.
-        Enfrentado desafíos con soluciones creativas y decisiones informadas.
-- Metodologías Ágiles, Estructuras de datos, evaluación de modelos y machine learning
- - Tecnologías de Big Data y DevOps.
-☁️ **Cloud Computing**: 
-  - Manejo de bases de datos y arquitectura de datos.
+- I was part of complex projects in data architecture, manipulation, and analysis using tools such as Python, NumPy, Pandas, AWS, Fast API, Power BI. 🚀 
+- Face challenges with creative solutions and informed decisions.  🎨 
+- I have knowledge in Agile Methodologies, Data Structures, Model evaluation, machine learning, Big Data Technologies and DevOps. 📚
+- In various projects I implemented cloud computing, database management, and data architecture. ☁️ 
+- Perform projects in data analysis and visualization. 📊 
+- Equipped to tackle complex challenges with practical solutions. 🛠️ 
   
-- 🛠️ **Análisis y Visualización de Datos**: 
--       Capacitado para abordar desafíos complejos con soluciones prácticas.
-## Contactame
+## 📫 How to reach me:
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/juliana-florez-quiros-483801229/)
 
 Email: silvab.cristian@gmail.com
-
-## Stats
- 
-
-
-
-## Contact me
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
@@ -79,7 +77,7 @@ Email: silvab.cristian@gmail.com
       </td>
       <td>
         <a href="https://github.com/CristianSilvaB">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianSilvaB&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="0xabdulkhalid"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianSilvaB&show_icons=true&locale=en&layout=compact&line_height=20&&theme=dark" width="375" alt="0xabdulkhalid"/>
         </a>
       </td>
     </tr>
@@ -91,24 +89,5 @@ Email: silvab.cristian@gmail.com
       </td>
     </tr>
   </table>
+ <img src="https://komarev.com/ghpvc/?username=CristianSilvaB&&style=flat-square" align="left" />
 </div>
-
-## Hi there 👋
-
-<!--
-**CristianSilvaB/CristianSilvaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help wi...
-- 💬 Ask me about ...
-- 📫 How to reach me:
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
-
--->
