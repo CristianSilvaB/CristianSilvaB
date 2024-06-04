@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Cristian+Silva;Data+Engineer!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Cristian+Silva;Data+Scientist!&center=true&size=30">
   </a>
 </h1>
 
@@ -90,8 +90,6 @@ Email: silvab.cristian@gmail.com
     </tr>
   </table>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=CristianSilvaB&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=CristianSilvaB&label=Profile%20views&style=flat"  />
 
-
- <img src="https://komarev.com/ghpvc/?username=CristianSilvaB&&style=flat-square" align="left" />
 </div>
