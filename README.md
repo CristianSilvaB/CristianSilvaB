@@ -5,7 +5,7 @@
 </h1>
 
 ## About me
-- I am a Data engineer with a background in Linux and server administration.  💻  
+- I am a Data Scientist with a background in Linux and server administration.  💻  
 - From an early age, my curiosity and love for learning led me to the world of technology, where I discovered my passion. 🌟
 - I believe in the transformative power of data to drive innovation in all areas. 🚀
 - I am interested in cybersecurity and automation. 🔒
@@ -62,7 +62,7 @@
   
 ## 📫 How to reach me:
 
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/juliana-florez-quiros-483801229/)
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/cristian-silva-4432a7280/)
 
 Email: silvab.cristian@gmail.com
 
@@ -89,5 +89,9 @@ Email: silvab.cristian@gmail.com
       </td>
     </tr>
   </table>
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=CristianSilvaB&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" />
+
+
  <img src="https://komarev.com/ghpvc/?username=CristianSilvaB&&style=flat-square" align="left" />
 </div>
